@@ -1,0 +1,10 @@
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\bin\Debug\Buoi5.exe.config
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\bin\Debug\Buoi5.exe
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\bin\Debug\Buoi5.pdb
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.AssemblyReference.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.frmSoanthaovanban.resources
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.Properties.Resources.resources
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.GenerateResource.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.csproj.CoreCompileInputs.cache
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.exe
+C:\Users\STAR\Documents\LT.moiTruongWindow\BT.buoi5\Buoi5\Buoi5\obj\Debug\Buoi5.pdb
